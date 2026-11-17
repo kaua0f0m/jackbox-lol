@@ -24161,14 +24161,14 @@ ${t}`
         rte = oc(() => x("a", {
             class: "logo",
             href: "/",
-            "aria-label": "Logo de Jackbox Games"
+            "aria-label": "Jackbox Games Logo"
         }, null, -1)),
         nte = {
             class: "content"
         },
         ite = oc(() => x("h1", null, "Se ha producido un error", -1)),
         ste = oc(() => x("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-        ote = oc(() => x("ul", null, [x("li", null, "Recarga la página"), x("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), x("li", null, "Comprueba tu conexión a Internet."), x("li", null, "Asegúrate de estar utilizando un navegador actualizado."), x("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+        ote = oc(() => x("ul", null, [x("li", null, "Refresh the page"), x("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), x("li", null, "Comprueba tu conexión a Internet."), x("li", null, "Asegúrate de estar utilizando un navegador actualizado."), x("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         ate = oc(() => x("hr", null, null, -1)),
         cte = {
             class: "error"

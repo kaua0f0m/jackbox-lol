@@ -25897,14 +25897,14 @@ ${t}`
         Wle = Du(() => H("a", {
             class: "logo",
             href: "/",
-            "aria-label": "Logo de Jackbox Games"
+            "aria-label": "Jackbox Games Logo"
         }, null, -1)),
         Kle = {
             class: "content"
         },
         Zle = Du(() => H("h1", null, "Se ha producido un error", -1)),
         zle = Du(() => H("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-        Yle = Du(() => H("ul", null, [H("li", null, "Recarga la página"), H("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), H("li", null, "Comprueba tu conexión a Internet."), H("li", null, "Asegúrate de estar utilizando un navegador actualizado."), H("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+        Yle = Du(() => H("ul", null, [H("li", null, "Refresh the page"), H("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), H("li", null, "Comprueba tu conexión a Internet."), H("li", null, "Asegúrate de estar utilizando un navegador actualizado."), H("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Xle = Du(() => H("hr", null, null, -1)),
         Qle = {
             class: "error"

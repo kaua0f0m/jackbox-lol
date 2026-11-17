@@ -24565,14 +24565,14 @@ ${t}`
         one = lc(() => G("a", {
             class: "logo",
             href: "/",
-            "aria-label": "Logo de Jackbox Games"
+            "aria-label": "Jackbox Games Logo"
         }, null, -1)),
         cne = {
             class: "content"
         },
         lne = lc(() => G("h1", null, "Se ha producido un error", -1)),
         une = lc(() => G("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-        fne = lc(() => G("ul", null, [G("li", null, "Recarga la página"), G("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), G("li", null, "Comprueba tu conexión a Internet."), G("li", null, "Asegúrate de estar utilizando un navegador actualizado."), G("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+        fne = lc(() => G("ul", null, [G("li", null, "Refresh the page"), G("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), G("li", null, "Comprueba tu conexión a Internet."), G("li", null, "Asegúrate de estar utilizando un navegador actualizado."), G("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         dne = lc(() => G("hr", null, null, -1)),
         hne = {
             class: "error"

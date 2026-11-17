@@ -23027,14 +23027,14 @@ ${t}`
         Jne = uc(() => V("a", {
             class: "logo",
             href: "/",
-            "aria-label": "Logo de Jackbox Games"
+            "aria-label": "Jackbox Games Logo"
         }, null, -1)),
         Zne = {
             class: "content"
         },
         Qne = uc(() => V("h1", null, "Se ha producido un error", -1)),
         qne = uc(() => V("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-        ere = uc(() => V("ul", null, [V("li", null, "Recarga la página"), V("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), V("li", null, "Comprueba tu conexión a Internet."), V("li", null, "Asegúrate de estar utilizando un navegador actualizado."), V("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+        ere = uc(() => V("ul", null, [V("li", null, "Refresh the page"), V("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), V("li", null, "Comprueba tu conexión a Internet."), V("li", null, "Asegúrate de estar utilizando un navegador actualizado."), V("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         tre = uc(() => V("hr", null, null, -1)),
         nre = {
             class: "error"

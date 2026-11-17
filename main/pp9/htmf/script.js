@@ -31695,14 +31695,14 @@ ${e}`
     nie = gl(() => P("a", {
         class: "logo",
         href: "/",
-        "aria-label": "Logo de Jackbox Games"
+        "aria-label": "Jackbox Games Logo"
     }, null, -1)),
     iie = {
         class: "content"
     },
     sie = gl(() => P("h1", null, "Se ha producido un error", -1)),
     aie = gl(() => P("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-    oie = gl(() => P("ul", null, [P("li", null, "Recarga la página"), P("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), P("li", null, "Comprueba tu conexión a Internet."), P("li", null, "Asegúrate de estar utilizando un navegador actualizado."), P("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+    oie = gl(() => P("ul", null, [P("li", null, "Refresh the page"), P("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), P("li", null, "Comprueba tu conexión a Internet."), P("li", null, "Asegúrate de estar utilizando un navegador actualizado."), P("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
     lie = gl(() => P("hr", null, null, -1)),
     uie = {
         class: "error"

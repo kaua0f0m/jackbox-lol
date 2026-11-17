@@ -16808,7 +16808,7 @@ const VC = Et.View.extend({
         onRoomWasDestroyed() {
             Zt.remove("roomCode"), Zt.remove("reconnect"), Ot.show("error", {
                 titleText: "Desconectado",
-                text: "¡Gracias por jugar!",
+                text: "Obrigado por jogar!",
                 willClose: () => {
                     window.location.reload(!0)
                 }
@@ -16817,7 +16817,7 @@ const VC = Et.View.extend({
         onDisconnected() {
             Ot.show("error", {
                 titleText: "Desconectado",
-                text: "Has sido desconectado.",
+                text: "Você foi desconectado.",
                 willClose: () => {
                     window.location.reload(!0)
                 }
@@ -17347,7 +17347,7 @@ const VC = Et.View.extend({
             LANGUAGE: "Idioma",
             LOGIN: "Iniciar sesi\xF3n",
             STRING_ERROR_SERVER_ROOM_DISCONNECTED: "Desconectado",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "¡Gracias por jugar!"
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "Obrigado por jogar!"
         },
         fr: {
             LANGUAGE_NAME: "Fran\xE7ais",
@@ -21033,9 +21033,9 @@ const $x = Et.View.extend({
 				<h3 id="lieswatter-lobby-text" class="lobby-text"></h3>
 
 				<form class="pure-form lobby-form">
-					<button type="submit" id="lieswatter-startgame" class="button-lieswatter button-xlarge pure-button pure-input-1" data-ans="1">ESTAMOS TODOS</button>
-					<button type="button" id="lieswatter-sameplayers" class="button-lieswatter button-xlarge pure-button pure-input-1 lieswatter-endbuttons" data-ans="1">MISMOS JUGADORES</button>
-					<button type="button" id="lieswatter-newplayers" class="button-lieswatter button-xlarge pure-button pure-input-1 lieswatter-endbuttons" data-ans="0">NUEVOS JUGADORES</button>	
+					<button type="submit" id="lieswatter-startgame" class="button-lieswatter button-xlarge pure-button pure-input-1" data-ans="1">TODOS PRONTOS</button>
+					<button type="button" id="lieswatter-sameplayers" class="button-lieswatter button-xlarge pure-button pure-input-1 lieswatter-endbuttons" data-ans="1">MESMOS JUGADORES</button>
+					<button type="button" id="lieswatter-newplayers" class="button-lieswatter button-xlarge pure-button pure-input-1 lieswatter-endbuttons" data-ans="0">NOVOS JUGADORES</button>	
 				</form>
 			</div>
 		</div>
@@ -21052,7 +21052,7 @@ const $x = Et.View.extend({
 							<div style="text-align:center;"><span id="lieswatter-rank" class="ls-rank-button">0</span></div>
 						</td>
 						<td style="padding:10px; width=160px;">
-							<div style="text-align:center; font-family:'Ubuntu', sans-serif; color:white;"><span>PUNTAJE</span><br /></div>
+							<div style="text-align:center; font-family:'Ubuntu', sans-serif; color:white;"><span>PONTOS</span><br /></div>
 							<div style="text-align:center;"><span id="lieswatter-score" class="ls-score-button">0</span></div>
 						</td>
 						<td style="padding:10px; width=80px;">
@@ -21064,7 +21064,7 @@ const $x = Et.View.extend({
 				</div>
 				
 				<div id="lieswatter-statement-container" class="centered">
-					<br/><span id="lieswatter-category" class="ls-category"></span><br /><span id="lieswatter-statement">ESPERANDO A QUE EMPIECE LA PARTIDA</span><br /><br />
+					<br/><span id="lieswatter-category" class="ls-category"></span><br /><span id="lieswatter-statement">ESPERANDO O INÍCIO DA PARTIDA</span><br /><br />
 				</div>
 
 				<div id="lieswatter-true-container" class="centered">
@@ -21078,7 +21078,7 @@ const $x = Et.View.extend({
 		</div>
 
 		<div class="pt-page-off state-nothing lieswatter-page" style="background:#515151;" >
-			<br /><span>¡RESPUESTA INGRESADA!<br/><br/>ESPERANDO A LOS OTROS JUGADORES.</span><br />
+			<br /><span>RESPOSTA RECEBIDA!<br/><br/>ESPERANDO OS OUTROS JOGADORES.</span><br />
 		</div>
 	</div>
 </div>

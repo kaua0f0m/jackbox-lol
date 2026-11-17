@@ -24014,14 +24014,14 @@ ${t}`
         Gee = ec(() => J("a", {
             class: "logo",
             href: "/",
-            "aria-label": "Logo de Jackbox Games"
+            "aria-label": "Jackbox Games Logo"
         }, null, -1)),
         Wee = {
             class: "content"
         },
         Kee = ec(() => J("h1", null, "Se ha producido un error", -1)),
         qee = ec(() => J("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-        Hee = ec(() => J("ul", null, [J("li", null, "Recarga la página"), J("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), J("li", null, "Comprueba tu conexión a Internet."), J("li", null, "Asegúrate de estar utilizando un navegador actualizado."), J("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+        Hee = ec(() => J("ul", null, [J("li", null, "Refresh the page"), J("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), J("li", null, "Comprueba tu conexión a Internet."), J("li", null, "Asegúrate de estar utilizando un navegador actualizado."), J("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Vee = ec(() => J("hr", null, null, -1)),
         Yee = {
             class: "error"

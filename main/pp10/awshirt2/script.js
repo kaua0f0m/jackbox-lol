@@ -30998,14 +30998,14 @@ ${e}`
         ioe = Gl(() => j("a", {
             class: "logo",
             href: "/",
-            "aria-label": "Logo de Jackbox Games"
+            "aria-label": "Jackbox Games Logo"
         }, null, -1)),
         soe = {
             class: "content"
         },
         aoe = Gl(() => j("h1", null, "Se ha producido un error", -1)),
         ooe = Gl(() => j("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
-        loe = Gl(() => j("ul", null, [j("li", null, "Recarga la página"), j("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), j("li", null, "Comprueba tu conexión a Internet."), j("li", null, "Asegúrate de estar utilizando un navegador actualizado."), j("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
+        loe = Gl(() => j("ul", null, [j("li", null, "Refresh the page"), j("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), j("li", null, "Comprueba tu conexión a Internet."), j("li", null, "Asegúrate de estar utilizando un navegador actualizado."), j("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         coe = Gl(() => j("hr", null, null, -1)),
         uoe = {
             class: "error"

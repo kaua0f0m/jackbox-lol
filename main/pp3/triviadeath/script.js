@@ -21262,7 +21262,7 @@ const Gx = VC.extend({
                 if (a) {
                     if (n += `<p>${a.wonGame?"FELICIDADES":"¡QUÉ TRAGEDIA!"}</p>`, d === "MakeSingleChoice")
                         for (let E = 0; E < e.choices.length; E++) n += `<button data-choice="${E}" class="light-text button-choice button-game button-large btn btn-block">${e.choices[E].text}</button>`;
-                    i += `<p>${a.wonGame?"¡Sobreviviste el juego!":"No sobreviviste el juego"}</p>`, i += "<BR>", i += `<p>Tu puntaje final: $${a.score}</p>`
+                    i += `<p>${a.wonGame?"¡Sobreviviste el juego!":"No sobreviviste el juego"}</p>`, i += "<BR>", i += `<p>Tu putnaje final: $${a.score}</p>`
                 }
                 const g = this.model.get("room").artifact;
                 if (g && g.success && g.rootId) {
