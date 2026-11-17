@@ -9229,7 +9229,7 @@ const VK = [{
         categoryId: "DrawfulAnimateGame",
         features: ["moderation"]
     }, {
-        name: "La Ruleta de Enormes Proporciones",
+        name: "A Roda de Proporções Enormes",
         tag: "the-wheel",
         wrapper: "vue",
         isPublic: !0,

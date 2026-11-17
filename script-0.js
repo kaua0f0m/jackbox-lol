@@ -13705,7 +13705,7 @@ class xg {
         le(this, "hmrApp", "loader");
         le(this, "sites");
         this.sites = e;
-        const r = this.getMatch(window.location.pathname);
+        const r = this.getMatch(window.location.pathname.replace(/^\/jackbox-lol(?=\/|$)/, "") || "/");
         this.executeMatch(r)
     }
     executeMatch(e) {

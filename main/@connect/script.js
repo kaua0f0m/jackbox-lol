@@ -15383,7 +15383,7 @@ const N3 = [{
         categoryId: "DrawfulAnimateGame",
         features: ["moderation"]
     }, {
-        name: "La Ruleta de Enormes Proporciones",
+        name: "A Roda de Proporções Enormes",
         tag: "the-wheel",
         wrapper: "vue",
         isPublic: !0,
@@ -37621,7 +37621,7 @@ const Sue = Ur(Tue, [
             showDefault() {
                 this.banners = [{
                     url: "https://traducciones.jackbox.lol/",
-                    image: "/main/@connect/assets/sitioweb.png",
+                    image: "/jackbox-lol/main/@connect/assets/sitioweb.png",
                     text: "¡Nuestras traducciones!"
                 }]
             },
