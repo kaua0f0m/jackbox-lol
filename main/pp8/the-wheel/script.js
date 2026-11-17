@@ -13112,118 +13112,118 @@ ${n.message}`,
         }
     }
     const yW = {
-            BACK: "Atrás",
+            BACK: "Voltar",
             CANCEL: "Cancelar",
-            CLOSE: "Cerrar",
+            CLOSE: "Fechar",
             CONFIRM: "Confirmar",
-            CREATE: "Crear",
-            DELETE: "Borrar",
-            DONE: "Hecho",
+            CREATE: "Criar",
+            DELETE: "Apagar",
+            DONE: "Pronto",
             EDIT: "Editar",
             OK: "OK",
-            NO: "No",
-            PLAY: "Jugar",
+            NO: "Não",
+            PLAY: "Jogar",
             PUBLISH: "Publicar",
             REMOVE: "Remover",
             RESET: "Reiniciar",
             SUBMIT: "Enviar",
-            TRY_AGAIN: "Intentar de nuevo",
-            UNDO: "Deshacer",
-            YES: "Sí"
+            TRY_AGAIN: "Tentar de novo",
+            UNDO: "Desfazer",
+            YES: "Sim"
         },
         bW = {
             UGC: {
-                VISIBILITY_CONTROLLER_OFF: "prompts hidden on players\u2019 devices",
-                VISIBILITY_CONTROLLER_ON: "prompts shown on players\u2019 devices",
-                VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
-                VISIBILITY_SCREEN_ON: "prompts shown on game screen"
+                VISIBILITY_CONTROLLER_OFF: "perguntas ocultas nos aparelhos dos jogadores",
+                VISIBILITY_CONTROLLER_ON: "perguntas visíveis nos aparelhos dos jogadores",
+                VISIBILITY_SCREEN_OFF: "perguntas ocultas na tela do jogo",
+                VISIBILITY_SCREEN_ON: "perguntas visíveis na tela do jogo"
             }
         },
         EW = {
-            DISCONNECTED: "Has sido desconectado.",
-            DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-            PLAYER_KICKED: "Has sido expulsado de la partida por un moderador.",
-            ROOM_DESTROYED: "¡Gracias por jugar!",
+            DISCONNECTED: "Você foi desconectado.",
+            DRAWING_NOTHING: "Você precisa desenhar alguma coisa!",
+            PLAYER_KICKED: "Você foi expulso da partida por um moderador.",
+            ROOM_DESTROYED: "Obrigado por jogar!",
             ROOM_DISCONNECTED: "Desconectado",
-            TEXT_NAUGHTY: "Me temo que no puedes escribir eso. Por favor sé respetuoso con otros jugadores.",
-            TEXT_NOTHING: "¡No puedes dejarlo en blanco!",
-            TITLE: "Error"
+            TEXT_NAUGHTY: "Receio que você não possa escrever isso. Por favor, respeite os outros jogadores.",
+            TEXT_NOTHING: "Não pode deixar em branco!",
+            TITLE: "Erro"
         },
-        SW = "CARGANDO",
+        SW = "CARREGANDO",
         TW = {
-            JOINED_COUNT: "{count} de {maxPlayers} jugadores se unieron",
-            PLAYERS_NEEDED: "x | Se necesita {count} jugador para empezar | Se necesitan {count} jugadores para empezar",
-            WAITING_FOR_VIP: "Esperando a que {name} empiece la partida",
-            WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-            GAME_STARTING: "La partida está empezando",
-            BUTTON_START: "Pulsa para empezar",
-            BUTTON_CANCEL: "Pulsa para cancelar"
+            JOINED_COUNT: "{count} de {maxPlayers} jogadores entraram",
+            PLAYERS_NEEDED: "x | Falta {count} jogador para começar | Faltam {count} jogadores para começar",
+            WAITING_FOR_VIP: "Esperando {name} começar a partida",
+            WAITING_FOR_GAMEPAD: "Esperando a partida começar",
+            GAME_STARTING: "A partida está começando",
+            BUTTON_START: "Toque para começar",
+            BUTTON_CANCEL: "Toque para cancelar"
         },
         wW = {
-            GALLERY_LINK: "Visita la galería",
-            PLAY_AGAIN: "¿Jugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+            GALLERY_LINK: "Veja a galeria",
+            PLAY_AGAIN: "Jogar de novo?",
+            BUTTON_SAME_PLAYERS: "Mesmos jogadores",
+            BUTTON_NEW_PLAYERS: "Novos jogadores"
         },
         CW = {
-            AND: "Y",
-            OR: "O"
+            AND: "E",
+            OR: "OU"
         },
         $W = {
-            BUTTON_SKIP: "Omitir",
-            BUTTON_NEXT: "Next",
-            BUTTON_DONE: "¡Vamos!"
+            BUTTON_SKIP: "Pular",
+            BUTTON_NEXT: "Próximo",
+            BUTTON_DONE: "Vamos lá!"
         },
         OW = {
-            NAME: "PÚBLICO"
+            NAME: "PLATEIA"
         },
         xW = {
-            EPISODE_REPORT: "Report Episode",
-            EPISODE_UNLOAD: "Unload Episode",
-            EPISODE_VIEW_AUTHOR: "View Author",
-            EPISODES_LOAD: "Load an episode by id:",
-            EPISODES_MENU: "Episodes Menu",
-            EPISODES_SELECT: "Or select an epsiode:",
-            EPISODES_WARNING: "Warning: user generated content is not rated",
+            EPISODE_REPORT: "Denunciar episódio",
+            EPISODE_UNLOAD: "Descarregar episódio",
+            EPISODE_VIEW_AUTHOR: "Ver autor",
+            EPISODES_LOAD: "Carregar um episódio pelo id:",
+            EPISODES_MENU: "Menu de episódios",
+            EPISODES_SELECT: "Ou escolha um episódio:",
+            EPISODES_WARNING: "Aviso: conteúdo criado por usuários não tem classificação",
             INSTRUCTION: {
-                CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
-                LOAD: "create or load?",
-                PUBLISH: "publish your episode",
-                TITLE: "name your episode",
-                TOGGLE_VISIBILITY: "tap to show/hide prompts",
-                WRITE: "write your prompts"
+                CREATE_TITLE: "primeiro, dê um nome ao episódio que vai guardar todas as suas perguntas e toque em criar.",
+                LOAD: "criar ou carregar?",
+                PUBLISH: "publique seu episódio",
+                TITLE: "dê um nome ao episódio",
+                TOGGLE_VISIBILITY: "toque para mostrar/ocultar perguntas",
+                WRITE: "escreva suas perguntas"
             },
             WARNING: {
-                DELETE: "Are you sure you want to delete this episode?",
-                TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
-                TOS_AGREE: "agree and share"
+                DELETE: "Tem certeza de que quer apagar este episódio?",
+                TOS: "Ao compartilhar conteúdo, você concorda com nossos [tos]Termos de Serviço[/tos]",
+                TOS_AGREE: "concordar e compartilhar"
             },
-            BACK_TO_EPISODES: "back to episodes",
-            BACK_TO_MENU: "back to menu",
-            CREATE_NEW_EPISODE: "create a new episode",
-            PREVIOUS_EPISODES: "previous episodes",
-            PROMPT_ADD: "add prompt",
-            PROMPT_PLACEHOLDER: "enter a prompt",
-            PROMPTS_COUNT_HIDDEN: "({count} hidden)",
-            TITLE_PLACEHOLDER: "enter a title"
+            BACK_TO_EPISODES: "voltar aos episódios",
+            BACK_TO_MENU: "voltar ao menu",
+            CREATE_NEW_EPISODE: "criar novo episódio",
+            PREVIOUS_EPISODES: "episódios anteriores",
+            PROMPT_ADD: "adicionar pergunta",
+            PROMPT_PLACEHOLDER: "digite uma pergunta",
+            PROMPTS_COUNT_HIDDEN: "({count} ocultas)",
+            TITLE_PLACEHOLDER: "digite um título"
         },
         AW = {
             BROADCASTER: {
-                SUBTEXT: "Has conectado correctamente tu cuenta a la Extensión de Twitch del Kit de Público de Jackbox.",
-                WARNING: "ESTA SALA NO TIENE LA OPCIÓN DE PÚBLICO HABILITADA"
+                SUBTEXT: "Você conectou sua conta à Extensão da Twitch do Kit de Plateia da Jackbox.",
+                WARNING: "ESTA SALA NÃO ESTÁ COM A PLATEIA ATIVADA"
             },
             RECONNECTED: {
                 TEXT: "RECONECTADO",
-                SUBTEXT: "¡Diviértete!"
+                SUBTEXT: "Divirta-se!"
             },
             RECONNECTING: {
                 CONTROLLER: {
-                    TEXT: "CONEXIÓN INTERUMPIDA",
-                    SUBTEXT: "Intentando reconectar ({attempt} de 5)"
+                    TEXT: "CONEXÃO PERDIDA",
+                    SUBTEXT: "Tentando reconectar ({attempt} de 5)"
                 },
                 GAME: {
-                    TEXT: "CONEXIÓN CON EL JUEGO INTERRUMPIDA",
-                    SUBTEXT: "Por favor espera mientras intentamos reconectar"
+                    TEXT: "CONEXÃO COM O JOGO PERDIDA",
+                    SUBTEXT: "Aguarde enquanto tentamos reconectar"
                 }
             }
         },
@@ -27868,94 +27868,94 @@ ${e}`
                 })
             })
         },
-        Lce = "PREGUNTAR",
-        Mce = "Has usado una palabra que La Ruleta no aprueba. Inténtalo de nuevo.",
-        Pce = "NO",
-        kce = "O",
+        Lce = "PERGUNTAR",
+        Mce = "Você usou uma palavra que A Roda não aprova. Tente de novo.",
+        Pce = "NÃO",
+        kce = "OU",
         Nce = "ENVIAR",
         Rce = "ENVIAR",
-        Dce = "ESPERA PARA SEGUIR",
-        Bce = "DESHACER",
-        Fce = "SÍ",
+        Dce = "AGUARDE PARA CONTINUAR",
+        Bce = "DESFAZER",
+        Fce = "SIM",
         Uce = {
-            NAME: "EL PÚBLICO",
-            VOTE_NOW: "VOTA YA",
-            THANKS: ["Gracias, querido público.", "Cada voto cuenta. ¡Incluso el tuyo!", "Te lo agradezco con toda mi enormidad.", "Te doy mi más profunda gratitud.", "Muchas gracias. No olvidaré esto."]
+            NAME: "A PLATEIA",
+            VOTE_NOW: "VOTE JÁ",
+            THANKS: ["Obrigada, querida plateia.", "Cada voto conta. Até o seu!", "Agradeço com toda a minha enormidade.", "Minha mais profunda gratidão.", "Muito obrigada. Não vou esquecer isso."]
         },
         zce = {
-            BANNER: "¿QUÉ ESTOY PENSANDO?",
-            INCORRECT: "INTÉNTALO DE NUEVO",
-            CORRECT: "BIEN HECHO",
-            PLACEHOLDER: "Ingresa una adivinanza"
+            BANNER: "O QUE ESTOU PENSANDO?",
+            INCORRECT: "TENTE DE NOVO",
+            CORRECT: "MUITO BEM",
+            PLACEHOLDER: "Digite um palpite"
         },
         Gce = {
             BANNER: "CONTRAPARTES",
-            CORRECT: "PAREJA",
-            FROZEN: "INCORRECTO"
+            CORRECT: "PAR",
+            FROZEN: "ERRADO"
         },
         jce = {
-            BANNER: "ENUMERA"
+            BANNER: "ENUMERE"
         },
         Wce = {
-            PLACE: "COLOCA TUS PORCIONES",
-            SUBMIT: "¡HECHO! PULSA ENVIAR",
-            THANKS: "BUEN TRABAJO"
+            PLACE: "POSICIONE SUAS FATIAS",
+            SUBMIT: "PRONTO! TOQUE EM ENVIAR",
+            THANKS: "BOM TRABALHO"
         },
         Vce = {
-            BANNER: "BIENVENIDO",
-            PLACEHOLDER: "Ingresa una pregunta"
+            BANNER: "BEM-VINDO",
+            PLACEHOLDER: "Digite uma pergunta"
         },
         Kce = {
-            BANNER: "ESO [small]O[/small] ESTO",
-            CORRECT: "CORRECTO",
-            FROZEN: "INCORRECTO"
+            BANNER: "ISSO [small]OU[/small] AQUILO",
+            CORRECT: "CERTO",
+            FROZEN: "ERRADO"
         },
         qce = {
-            ANSWER_BANNER: "¡GANASTE!",
-            MAIN_BANNER: "GIRA [small]LA[/small] RULETA",
-            RAINBOW_BANNER: "RULETA ARCOÍRIS",
-            WIN_BANNER: "POR [small]LA[/small] VICTORIA"
+            ANSWER_BANNER: "VOCÊ VENCEU!",
+            MAIN_BANNER: "GIRE [small]A[/small] RODA",
+            RAINBOW_BANNER: "RODA ARCO-ÍRIS",
+            WIN_BANNER: "[small]PELA[/small] VITÓRIA"
         },
         Hce = {
-            OBJECTIVE_BANNER: "NO TE OLVIDES DE ESCRIBIR",
-            SUBJECTIVE_BANNER: "SUBJETIVAMENTE TUYO",
-            CORRECT: "BIEN",
-            TAKEN: "CONTESTADA",
-            OBJECTIVE_INCORRECT: "INCORRECTO",
-            SUBJECTIVE_INCORRECT: "NOUP",
-            PLACEHOLDER: "Ingresa una adivinanza"
+            OBJECTIVE_BANNER: "NÃO ESQUEÇA DE ESCREVER",
+            SUBJECTIVE_BANNER: "SUBJETIVAMENTE SUA",
+            CORRECT: "BOA",
+            TAKEN: "RESPONDIDA",
+            OBJECTIVE_INCORRECT: "ERRADO",
+            SUBJECTIVE_INCORRECT: "NÃÃO",
+            PLACEHOLDER: "Digite um palpite"
         },
         Yce = {
-            SPIN: '[player avatar="{avatar}"]{name}[/player] es quien gira',
-            MESSAGES: ["Recuerda... la paciencia es una virtud.", "Esta es una pantalla en blanco. ¿O no lo es?", "¡La acción espera!", "Oh, la espera. ¡La espera!", "¡Solo espera hasta la siguiente parte!", "¡Hey, buen controlador! Lo siento, solo estoy haciendo conversación.", "(Insertar música de espera aquí)", "Quédate ahí, pequeñín", "Yo creo en ti. Shhh... no le digas a nadie.", "Está a punto de ponerse emocionante aquí.", "Nada que ver aquí.", "He aquí... una pantalla con solo estas palabras en ella.", "Propiedad de la Ruleta de Enormes Proporciones", "La Ruleta estuvo aquí"]
+            SPIN: "[player avatar=\"{avatar}\"]{name}[/player] vai girar",
+            MESSAGES: ["Lembre-se... a paciência é uma virtude.", "Esta é uma tela em branco. Ou não é?", "A ação aguarda!", "Ah, a espera. A ESPERA!", "Espere só até a próxima parte!", "Ei, belo controle! Desculpa, só puxando assunto.", "(Insira música de espera aqui)", "Aguenta firme, pequenino", "Eu acredito em você. Shhh... não conta pra ninguém.", "Está prestes a ficar emocionante por aqui.", "Nada para ver aqui.", "Eis... uma tela com só estas palavras nela.", "Propriedade da Roda de Proporções Enormes", "A Roda esteve aqui"]
         },
         Xce = {
-            ANSWER: "porción de respuesta.",
-            AUDIENCE: "porción del público.",
-            BAD: "porción de calavera.",
-            BONUS: "porción de poder para {for}.",
-            EMPTY: "vacío.",
-            MULTIPLIER: "multiplicador x{multiplier} vacío.",
-            NEIGHBOR: "porción vecina.",
-            PLAYER: "porción de jugador para {for}.",
-            POINTS: "{points} porción de puntos.",
-            POINTS_FOR: "porción de puntos para {for}.",
+            ANSWER: "fatia de resposta.",
+            AUDIENCE: "fatia da plateia.",
+            BAD: "fatia de caveira.",
+            BONUS: "fatia de poder de {for}.",
+            EMPTY: "vazia.",
+            MULTIPLIER: "multiplicador x{multiplier} vazio.",
+            NEIGHBOR: "fatia vizinha.",
+            PLAYER: "fatia de jogador de {for}.",
+            POINTS: "fatia de {points} pontos.",
+            POINTS_FOR: "fatia de pontos de {for}.",
             RESERVED: "reservada para {for}.",
-            WINNER: "porción de ganador para {for}.",
-            KEEP_GOING: "sigue así.",
-            SPIN_POWER: "{power} por ciento de giro de potencia.",
-            SPIN: "desliza hacia abajo o toca rápidamente para girar",
-            SLICE_COUNT: "tienes 0 porciones. | tienes 1 porción. | tienes {count} porciones.",
-            YOU_CAN_WIN: "Ahora tienes suficientes puntos para ganar.",
-            YOUR_AVATAR: "Tu avatar es",
-            PLAYER1: "la realeza",
-            PLAYER2: "el caballero",
-            PLAYER3: "la momia",
-            PLAYER4: "el robot",
-            PLAYER5: "la bruja",
-            PLAYER6: "el payaso",
-            PLAYER7: "la sirena",
-            PLAYER8: "el astroman"
+            WINNER: "fatia de vencedor de {for}.",
+            KEEP_GOING: "continue assim.",
+            SPIN_POWER: "giro com {power} por cento de força.",
+            SPIN: "deslize para baixo ou toque rápido para girar",
+            SLICE_COUNT: "você tem 0 fatias. | você tem 1 fatia. | você tem {count} fatias.",
+            YOU_CAN_WIN: "Agora você tem pontos suficientes para vencer.",
+            YOUR_AVATAR: "Seu avatar é",
+            PLAYER1: "a realeza",
+            PLAYER2: "o cavaleiro",
+            PLAYER3: "a múmia",
+            PLAYER4: "o robô",
+            PLAYER5: "a bruxa",
+            PLAYER6: "o palhaço",
+            PLAYER7: "a sereia",
+            PLAYER8: "o astronauta"
         },
         Zce = {
             ASK: Lce,
