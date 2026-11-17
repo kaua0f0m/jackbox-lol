@@ -37619,11 +37619,7 @@ const Sue = Ur(Tue, [
                 }
             },
             showDefault() {
-                this.banners = [{
-                    url: "https://traducciones.jackbox.lol/",
-                    image: "/jackbox-lol/main/@connect/assets/sitioweb.png",
-                    text: "¡Nuestras traducciones!"
-                }]
+                this.banners = []
             },
             isValidBanner(t) {
                 const e = new Date;
