@@ -20212,7 +20212,7 @@ let Iy = class {
     );
   }
   getS3Url(t, n) {
-    return `${window.location.origin}/${n}/${t}`;
+    return `${window.location.origin}/jackbox-lol/${n}/${t}`;
   }
   async loadHMRBundle(t) {
     const n = t.file;
@@ -20581,7 +20581,7 @@ class $y {
     ze(this, "hmrApp", "loader");
     ze(this, "sites");
     this.sites = t;
-    const n = this.getMatch(window.location.pathname);
+    const n = this.getMatch(window.location.pathname.replace(/^\/jackbox-lol(?=\/|$)/, "") || "/");
     this.executeMatch(n);
   }
   executeMatch(t) {
