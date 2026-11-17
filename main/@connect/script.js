@@ -47528,8 +47528,8 @@ window.tv.register({
     ((s = r.match) != null && s.params.locale && (n = r.match.params.locale),
       Ws.set(n));
     const i = K3({
-      fallbackLocale: "es-XL",
-      locale: "es-XL",
+      fallbackLocale: "pt-BR",
+      locale: "pt-BR",
       messages: Ws.mergeMessages(e5, J7),
     });
     return (
