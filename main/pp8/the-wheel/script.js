@@ -24366,7 +24366,7 @@ ${e}`
         Ooe = {
             class: "content"
         },
-        xoe = g1(() => A("h1", null, "Se ha producido un error", -1)),
+        xoe = g1(() => A("h1", null, "Ocorreu um erro", -1)),
         Aoe = g1(() => A("p", null, "¡Algo salió mal! Pero no te preocupes, puedes probar algunas cosas para seguir.", -1)),
         Ioe = g1(() => A("ul", null, [A("li", null, "Refresh the page"), A("li", null, "Desactiva los bloqueadores de anuncios u otras extensiones del navegador."), A("li", null, "Comprueba tu conexión a Internet."), A("li", null, "Asegúrate de estar utilizando un navegador actualizado."), A("li", null, "Si eso no funciona, háznoslo saber.")], -1)),
         Loe = g1(() => A("hr", null, null, -1)),
@@ -24377,7 +24377,7 @@ ${e}`
     function Poe(t, e, n, r, i, s) {
         return D(), U("div", woe, [A("div", Coe, [$oe, A("div", Ooe, [xoe, Aoe, Ioe, A("button", {
             onClick: e[0] || (e[0] = (...o) => t.onFeedbackClick && t.onFeedbackClick(...o))
-        }, "Dinos qué pasó"), Loe, A("pre", Moe, ht(t.message), 1)])])])
+        }, "Conte o que aconteceu"), Loe, A("pre", Moe, ht(t.message), 1)])])])
     }
     const koe = Se(Toe, [
             ["render", Poe],
