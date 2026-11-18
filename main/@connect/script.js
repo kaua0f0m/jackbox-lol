@@ -15397,7 +15397,7 @@ const N3 = [{
         directory: "pp8/survey-bomb",
         categoryId: "SurveyBombGame"
     }, {
-        name: "Trazo del Crimen",
+        name: "Weapons Drawn",
         tag: "murder-detectives",
         wrapper: "vue",
         isPublic: !0,

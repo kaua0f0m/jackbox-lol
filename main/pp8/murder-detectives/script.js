@@ -16858,141 +16858,141 @@ const $a = class $a {
 ue($a, "isPolyfilled", !1);
 let SE = $a;
 const HG = {
-            BACK: "Atrás",
+            BACK: "Voltar",
             CANCEL: "Cancelar",
-            CLOSE: "Cerrar",
-            CREATE: "Crear",
-            DELETE: "Borrar",
-            DONE: "Hecho",
+            CLOSE: "Fechar",
+            CREATE: "Criar",
+            DELETE: "Apagar",
+            DONE: "Pronto",
             EDIT: "Editar",
             OK: "OK",
-            NO: "No",
-            PLAY: "Jugar",
+            NO: "Não",
+            PLAY: "Jogar",
             PUBLISH: "Publicar",
             REMOVE: "Remover",
             RESET: "Reiniciar",
             SUBMIT: "Enviar",
-            TRY_AGAIN: "Intentarlo de nuevo",
-            UNDO: "Deshacer",
-            YES: "Sí"
+            TRY_AGAIN: "Tentar de novo",
+            UNDO: "Desfazer",
+            YES: "Sim"
     },
     WG = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "prompts hidden on players’ devices",
-            VISIBILITY_CONTROLLER_ON: "prompts shown on players’ devices",
-            VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
-            VISIBILITY_SCREEN_ON: "prompts shown on game screen"
+            VISIBILITY_CONTROLLER_OFF: "perguntas ocultas nos aparelhos dos jogadores",
+            VISIBILITY_CONTROLLER_ON: "perguntas visíveis nos aparelhos dos jogadores",
+            VISIBILITY_SCREEN_OFF: "perguntas ocultas na tela do jogo",
+            VISIBILITY_SCREEN_ON: "perguntas visíveis na tela do jogo"
         }
     },
     qG = {
-        DISCONNECTED: "Has sido desconectado.",
-        DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-        PLAYER_KICKED: "Has sido echado de la partida por un moderador.",
-        ROOM_DESTROYED: "¡Gracias por jugar!",
+        DISCONNECTED: "Você foi desconectado.",
+        DRAWING_NOTHING: "Você precisa desenhar alguma coisa!",
+        PLAYER_KICKED: "Você foi expulso da partida por um moderador.",
+        ROOM_DESTROYED: "Obrigado por jogar!",
         ROOM_DISCONNECTED: "Desconectado",
-        TEXT_NAUGHTY: "Me temo que no puedes escribir eso. Por favor sé respetuoso con otros jugadores.",
-        TEXT_NOTHING: "¡No puedes dejarlo en blanco!",
-        TITLE: "Error"
+        TEXT_NAUGHTY: "Receio que você não possa escrever isso. Por favor, respeite os outros jogadores.",
+        TEXT_NOTHING: "Não pode deixar em branco!",
+        TITLE: "Erro"
     },
-    YG = "CARGANDO",
+    YG = "CARREGANDO",
     zG = {
-        JOINED_COUNT: "x | Se han unido {count} de {maxPlayers} jugadores | Se han unido {count} de {maxPlayers} jugadores",
-        PLAYERS_NEEDED: "x | Se necesita {count} jugador para empezar | Se necesitan {count} jugadores para empezar",
-        WAITING_FOR_VIP: "Esperando a que {name} empiece la partida",
-        WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-        WAITING_FOR_NEW_GAME: "Esperando a que empiece una nueva partida",
-        GAME_STARTING: "La partida está empezando",
-        BUTTON_START: "Pulsa para empezar",
-        BUTTON_CANCEL: "Pulsa para cancelar"
+        JOINED_COUNT: "x | {count} de {maxPlayers} jogadores entraram | {count} de {maxPlayers} jogadores entraram",
+        PLAYERS_NEEDED: "x | Falta {count} jogador para começar | Faltam {count} jogadores para começar",
+        WAITING_FOR_VIP: "Esperando {name} começar a partida",
+        WAITING_FOR_GAMEPAD: "Esperando a partida começar",
+        WAITING_FOR_NEW_GAME: "Esperando uma nova partida começar",
+        GAME_STARTING: "A partida está começando",
+        BUTTON_START: "Toque para começar",
+        BUTTON_CANCEL: "Toque para cancelar"
     },
     JG = {
-        GALLERY_LINK: "Visita la galería",
-        NEW_GAME_STARTED: "Una partida nueva ha empezado",
-        PLAY_AGAIN: "¿Otra vez?",
-        THANKS_FOR_PLAYING: "¡Gracias por jugar!",
-        BUTTON_GO_TO_GAME: "Ir a la partida",
-        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.lol",
-        BUTTON_SAME_PLAYERS: "Mismos jugadores",
-        BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+        GALLERY_LINK: "Veja a galeria",
+        NEW_GAME_STARTED: "Uma nova partida começou",
+        PLAY_AGAIN: "De novo?",
+        THANKS_FOR_PLAYING: "Obrigado por jogar!",
+        BUTTON_GO_TO_GAME: "Ir para a partida",
+        BUTTON_GO_TO_JACKBOX: "Voltar ao início",
+        BUTTON_SAME_PLAYERS: "Mesmos jogadores",
+        BUTTON_NEW_PLAYERS: "Novos jogadores"
     },
     ZG = {
-        AND: "Y",
-        OR: "O"
+        AND: "E",
+        OR: "OU"
     },
     QG = {
-        BUTTON_SKIP: "Omitir",
-        BUTTON_NEXT: "Siguiente",
-        BUTTON_DONE: "¡Vamos!"
+        BUTTON_SKIP: "Pular",
+        BUTTON_NEXT: "Próximo",
+        BUTTON_DONE: "Vamos lá!"
     },
     e7 = {
-        NAME: "PÚBLICO"
+        NAME: "PLATEIA"
     },
     t7 = {
         CART: {
-            CHECK_OUT: "Comprar ahora",
-            EMPTY: "Tu carrito está vacío",
-            TITLE: "Carrito de compras",
+            CHECK_OUT: "Comprar agora",
+            EMPTY: "Seu carrinho está vazio",
+            TITLE: "Carrinho de compras",
             TOTAL: "Total"
         }
     },
     r7 = {
-        EPISODE_REPORT: "Report Episode",
-        EPISODE_UNLOAD: "Unload Episode",
-        EPISODE_VIEW_AUTHOR: "View Author",
-        EPISODES_LOAD: "Load an episode by id:",
-        EPISODES_MENU: "Episodes Menu",
-        EPISODES_SELECT: "Or select an epsiode:",
-        EPISODES_WARNING: "Warning: user generated content is not rated",
+        EPISODE_REPORT: "Denunciar episódio",
+        EPISODE_UNLOAD: "Descarregar episódio",
+        EPISODE_VIEW_AUTHOR: "Ver autor",
+        EPISODES_LOAD: "Carregar um episódio pelo id:",
+        EPISODES_MENU: "Menu de episódios",
+        EPISODES_SELECT: "Ou escolha um episódio:",
+        EPISODES_WARNING: "Aviso: conteúdo criado por usuários não tem classificação",
         INSTRUCTION: {
-            CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
-            LOAD: "create or load?",
-            PUBLISH: "publish your episode",
-            TITLE: "name your episode",
-            TOGGLE_VISIBILITY: "tap to show/hide prompts",
-            WRITE: "write your prompts"
+            CREATE_TITLE: "primeiro, dê um nome ao episódio que vai guardar todas as suas perguntas e toque em criar.",
+            LOAD: "criar ou carregar?",
+            PUBLISH: "publique seu episódio",
+            TITLE: "dê um nome ao episódio",
+            TOGGLE_VISIBILITY: "toque para mostrar/ocultar perguntas",
+            WRITE: "escreva suas perguntas"
         },
         WARNING: {
-            DELETE: "Are you sure you want to delete this episode?",
-            TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
-            TOS_AGREE: "agree and share"
+            DELETE: "Tem certeza de que quer apagar este episódio?",
+            TOS: "Ao compartilhar conteúdo, você concorda com nossos [tos]Termos de Serviço[/tos]",
+            TOS_AGREE: "concordar e compartilhar"
         },
-        BACK_TO_EPISODES: "back to episodes",
-        BACK_TO_MENU: "back to menu",
-        CREATE_NEW_EPISODE: "create a new episode",
-        PREVIOUS_EPISODES: "previous episodes",
-        PROMPT_ADD: "add prompt",
-        PROMPT_PLACEHOLDER: "enter a prompt",
-        PROMPTS_COUNT_HIDDEN: "({count} hidden)",
-        TITLE_PLACEHOLDER: "enter a title"
+        BACK_TO_EPISODES: "voltar aos episódios",
+        BACK_TO_MENU: "voltar ao menu",
+        CREATE_NEW_EPISODE: "criar novo episódio",
+        PREVIOUS_EPISODES: "episódios anteriores",
+        PROMPT_ADD: "adicionar pergunta",
+        PROMPT_PLACEHOLDER: "digite uma pergunta",
+        PROMPTS_COUNT_HIDDEN: "({count} ocultas)",
+        TITLE_PLACEHOLDER: "digite um título"
     },
     n7 = {
         BROADCASTER: {
-            SUBTEXT: "Conectaste correctamente tu cuenta a la extensión para Twitch del kit para público de Jackbox.",
-            WARNING: "ESTA SALA NO TIENE ACTIVADA LA OPCIÓN DE PÚBLICO"
+            SUBTEXT: "Você conectou sua conta à Extensão da Twitch do Kit de Plateia da Jackbox.",
+            WARNING: "ESTA SALA NÃO ESTÁ COM A PLATEIA ATIVADA"
         },
         RECONNECTED: {
-            TEXT: "CONEXIÓN RESTABLECIDA",
-            SUBTEXT: "¡Diviértete!"
+            TEXT: "CONEXÃO RESTABELECIDA",
+            SUBTEXT: "Divirta-se!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "CONEXIÓN INTERRUMPIDA",
-                SUBTEXT: "Intento de reconexión ({attempt} de 5)"
+                TEXT: "CONEXÃO PERDIDA",
+                SUBTEXT: "Tentando reconectar ({attempt} de 5)"
             },
             GAME: {
-                TEXT: "SE INTERRUMPIÓ LA CONEXIÓN AL JUEGO",
-                SUBTEXT: "Espera mientras intentamos restablecer la conexión"
+                TEXT: "CONEXÃO COM O JOGO PERDIDA",
+                SUBTEXT: "Aguarde enquanto tentamos restabelecer a conexão"
             }
         },
         PAUSED: {
-            TEXT: "EL JUEGO ESTÁ EN PAUSA",
-            SUBTEXT: "Todo lo que ingreses será enviado al juego."
+            TEXT: "O JOGO ESTÁ PAUSADO",
+            SUBTEXT: "Tudo o que você digitar será enviado ao jogo."
         }
     },
     i7 = {
-        SHARE: "Compartir",
-        COPY_TO_CLIPBOARD: "Copiar al portapapeles",
-        COPIED: "Se copió"
+        SHARE: "Compartilhar",
+        COPY_TO_CLIPBOARD: "Copiar para a área de transferência",
+        COPIED: "Copiado"
     },
     s7 = {
         ACTION: HG,
@@ -24777,7 +24777,7 @@ const gJ = ft(hJ, [
     xJ = {
         key: 0,
         href: "/past-games",
-        "aria-label": "back"
+        "aria-label": "voltar"
     },
     bJ = {
         class: "logo"
@@ -25785,8 +25785,8 @@ function ore(t, e, r, n, i, s) {
     ]), G("span", null, [vi("Feedback is about: "), G("em", null, Be(t.content), 1)])])) : Ae("", !0), Qe(G("textarea", {
         "onUpdate:modelValue": e[6] || (e[6] = u => t.message = u),
         rows: "3",
-        placeholder: "(optional) more details",
-        "aria-label": "Details"
+        placeholder: "(opcional) mais detalhes",
+        "aria-label": "Detalhes"
     }, null, 512), [
         [UT, t.message]
     ]), G("button", {
@@ -25794,8 +25794,8 @@ function ore(t, e, r, n, i, s) {
     }, Be(t.$t("ACTION.SUBMIT")), 1)])])) : t.screen === "debug" ? (q(), Z("div", nre, [ire, sre, G("div", are, [Qe(G("textarea", {
         "onUpdate:modelValue": e[8] || (e[8] = u => t.message = u),
         rows: "3",
-        placeholder: "Enter details",
-        "aria-label": "Details"
+        placeholder: "Digite os detalhes",
+        "aria-label": "Detalhes"
     }, null, 512), [
         [UT, t.message]
     ]), G("button", {
@@ -33192,30 +33192,30 @@ const $ue = t => {
     },
     Due = "enviado",
     Kue = {
-        SLIDE_0_TITLE: "En Trazo del Crimen, cada jugador es detective y asesino a la vez.",
-        SLIDE_0_ITEM_1: "Asesina a los invitados traídos por otros jugadores.",
-        SLIDE_0_ITEM_2: "Resuelve otros asesinatos para distraer a los demás de los tuyos.",
-        SLIDE_1_TITLE: "Cada arma homicida que saques debe contener una letra de tu nombre.",
-        SLIDE_1_ITEM_1: 'Esta es tu "tarjeta de visita".',
-        SLIDE_1_ITEM_2: "¡Manténla en secreto!",
-        SLIDE_2_TITLE: "Esconde tu letra como parte del dibujo.",
-        SLIDE_2_ITEM_1: "Mueve tu letra, luego dibuja el arma a su alrededor.",
-        SLIDE_2_ITEM_2: "Debes estar atento a las letras de los otros jugadores.",
-        SLIDE_3_TITLE: "Todos traen dos invitados secretos a la fiesta.",
-        SLIDE_3_ITEM_1: "Dale a tu invitado un nombre que destaque, pero que no te delate.",
-        SLIDE_3_ITEM_2: "Asesina a los invitados adivinando qué jugador los trajo.",
-        SLIDE_3_ITEM_3: "Tu arma quedará como evidencia.",
-        SLIDE_4_TITLE: "Consejos profesionales:",
-        SLIDE_4_ITEM_1: "Hablen entre ustedes y compartan sus teorías para llegar a una votación mayoritaria.",
-        SLIDE_4_ITEM_2: "Cada jugador sólo saca cada arma una vez. Usa esto para eliminar a los sospechosos."
+        SLIDE_0_TITLE: "Em Weapons Drawn, cada jogador é detetive e assassino ao mesmo tempo.",
+        SLIDE_0_ITEM_1: "Assassine os convidados trazidos pelos outros jogadores.",
+        SLIDE_0_ITEM_2: "Resolva outros assassinatos para desviar a atenção dos seus.",
+        SLIDE_1_TITLE: "Toda arma do crime que você desenhar precisa ter uma letra do seu nome.",
+        SLIDE_1_ITEM_1: "Esse é o seu \"cartão de visita\".",
+        SLIDE_1_ITEM_2: "Mantenha em segredo!",
+        SLIDE_2_TITLE: "Esconda sua letra no meio do desenho.",
+        SLIDE_2_ITEM_1: "Posicione sua letra e depois desenhe a arma em volta dela.",
+        SLIDE_2_ITEM_2: "Fique de olho nas letras dos outros jogadores.",
+        SLIDE_3_TITLE: "Cada um traz dois convidados secretos para a festa.",
+        SLIDE_3_ITEM_1: "Dê ao seu convidado um nome que chame atenção, mas que não te entregue.",
+        SLIDE_3_ITEM_2: "Assassine convidados adivinhando qual jogador os trouxe.",
+        SLIDE_3_ITEM_3: "Sua arma vai ficar como prova.",
+        SLIDE_4_TITLE: "Dicas de profissional:",
+        SLIDE_4_ITEM_1: "Conversem e compartilhem suas teorias para chegar a uma votação da maioria.",
+        SLIDE_4_ITEM_2: "Cada jogador só desenha cada arma uma vez. Use isso para eliminar suspeitos."
     },
     kue = {
         TAB_MOVE: "MOVER",
-        TAB_DRAW: "DIBUJAR"
+        TAB_DRAW: "DESENHAR"
     },
     Mue = {
-        WRITE_SOMETHING: "¡Tienes que escribir algo!",
-        FILTER_ERROR: "Eso no está permitido, ¡escribe otra cosa! (Puedes cambiar el nivel de filtrado en el menú de ajustes del juego)"
+        WRITE_SOMETHING: "Você precisa escrever alguma coisa!",
+        FILTER_ERROR: "Isso não é permitido, escreva outra coisa! (Dá para mudar o nível do filtro no menu de configurações do jogo)"
     },
     Vue = {
         SENT: Due,
@@ -34299,7 +34299,7 @@ function Vfe(t, e, r, n, i, s) {
         disabled: t.isSubmitting
     }, [Qe(G("div", Bfe, null, 512), [
         [u, t.player.prompt]
-    ]), t.hasWarning ? (q(), Z("div", $fe, " ¡Vota por alguien! ¡Rápido! ")) : (q(), Z("div", {
+    ]), t.hasWarning ? (q(), Z("div", $fe, " Vote em alguém! Rápido! ")) : (q(), Z("div", {
         key: 1,
         ref: "nipple",
         class: Pe(`nippleContainer numPlayers${t.player.numPlayers}`)
@@ -34632,7 +34632,7 @@ const Uce = ft(Sce, [
     },
     kce = G("img", {
         class: "logo",
-        alt: "logo de trazo del crimen",
+        alt: "logo de Weapons Drawn",
         src: Bce
     }, null, -1),
     Mce = [kce];
