@@ -15367,7 +15367,7 @@ const N3 = [{
         directory: "pp7/blanky-blank",
         categoryId: "BlankyBlankGame"
     }, {
-        name: "Bajo Trabajo",
+        name: "Job Job",
         tag: "apply-yourself",
         wrapper: "vue",
         isPublic: !0,

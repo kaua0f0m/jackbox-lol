@@ -11879,117 +11879,117 @@ ${n.message}`,
         }
     }
     const e5 = {
-            BACK: "Atrás",
+            BACK: "Voltar",
             CANCEL: "Cancelar",
-            CLOSE: "Cerrar",
-            CREATE: "Crear",
-            DELETE: "Borrar",
-            DONE: "Hecho",
+            CLOSE: "Fechar",
+            CREATE: "Criar",
+            DELETE: "Apagar",
+            DONE: "Pronto",
             EDIT: "Editar",
             OK: "OK",
-            NO: "No",
-            PLAY: "Jugar",
+            NO: "Não",
+            PLAY: "Jogar",
             PUBLISH: "Publicar",
             REMOVE: "Remover",
             RESET: "Reiniciar",
             SUBMIT: "Enviar",
-            TRY_AGAIN: "Intentarlo de nuevo",
-            UNDO: "Deshacer",
-            YES: "Sí"
+            TRY_AGAIN: "Tentar de novo",
+            UNDO: "Desfazer",
+            YES: "Sim"
         },
         t5 = {
             UGC: {
-                VISIBILITY_CONTROLLER_OFF: "prompts hidden on players\u2019 devices",
-                VISIBILITY_CONTROLLER_ON: "prompts shown on players\u2019 devices",
-                VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
-                VISIBILITY_SCREEN_ON: "prompts shown on game screen"
+                VISIBILITY_CONTROLLER_OFF: "perguntas ocultas nos aparelhos dos jogadores",
+                VISIBILITY_CONTROLLER_ON: "perguntas visíveis nos aparelhos dos jogadores",
+                VISIBILITY_SCREEN_OFF: "perguntas ocultas na tela do jogo",
+                VISIBILITY_SCREEN_ON: "perguntas visíveis na tela do jogo"
             }
         },
         n5 = {
-            DISCONNECTED: "Has sido desconectado.",
-            DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-            PLAYER_KICKED: "Has sido echado de la partida por un moderador.",
-            ROOM_DESTROYED: "¡Gracias por jugar!",
+            DISCONNECTED: "Você foi desconectado.",
+            DRAWING_NOTHING: "Você precisa desenhar alguma coisa!",
+            PLAYER_KICKED: "Você foi expulso da partida por um moderador.",
+            ROOM_DESTROYED: "Obrigado por jogar!",
             ROOM_DISCONNECTED: "Desconectado",
-            TEXT_NAUGHTY: "Me temo que no puedes escribir eso. Por favor sé respetuoso con otros jugadores.",
-            TEXT_NOTHING: "¡No puedes dejarlo en blanco!",
-            TITLE: "Error"
+            TEXT_NAUGHTY: "Receio que você não possa escrever isso. Por favor, respeite os outros jogadores.",
+            TEXT_NOTHING: "Não pode deixar em branco!",
+            TITLE: "Erro"
         },
-        r5 = "LOADING",
+        r5 = "CARREGANDO",
         i5 = {
-            JOINED_COUNT: "x | Se han unido {count} de {maxPlayers} jugadores | Se han unido {count} de {maxPlayers} jugadores",
-            PLAYERS_NEEDED: "x | Se necesita {count} jugador para empezar | Se necesitan {count} jugadores para empezar",
-            WAITING_FOR_VIP: "Esperando a que {name} empiece la partida",
-            WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-            GAME_STARTING: "La partida está empezando",
-            BUTTON_START: "Pulsa para empezar",
-            BUTTON_CANCEL: "Pulsa para cancelar"
+            JOINED_COUNT: "x | {count} de {maxPlayers} jogadores entraram | {count} de {maxPlayers} jogadores entraram",
+            PLAYERS_NEEDED: "x | Falta {count} jogador para começar | Faltam {count} jogadores para começar",
+            WAITING_FOR_VIP: "Esperando {name} começar a partida",
+            WAITING_FOR_GAMEPAD: "Esperando a partida começar",
+            GAME_STARTING: "A partida está começando",
+            BUTTON_START: "Toque para começar",
+            BUTTON_CANCEL: "Toque para cancelar"
         },
         s5 = {
-            GALLERY_LINK: "Visita la galería",
-            PLAY_AGAIN: "¿Jugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+            GALLERY_LINK: "Veja a galeria",
+            PLAY_AGAIN: "Jogar de novo?",
+            BUTTON_SAME_PLAYERS: "Mesmos jogadores",
+            BUTTON_NEW_PLAYERS: "Novos jogadores"
         },
         a5 = {
-            AND: "Y",
-            OR: "O"
+            AND: "E",
+            OR: "OU"
         },
         o5 = {
-            BUTTON_SKIP: "Omitir",
-            BUTTON_NEXT: "Siguiente",
-            BUTTON_DONE: "¡Vamos!"
+            BUTTON_SKIP: "Pular",
+            BUTTON_NEXT: "Próximo",
+            BUTTON_DONE: "Vamos lá!"
         },
         l5 = {
-            NAME: "PÚBLICO"
+            NAME: "PLATEIA"
         },
         c5 = {
-            EPISODE_REPORT: "Report Episode",
-            EPISODE_UNLOAD: "Unload Episode",
-            EPISODE_VIEW_AUTHOR: "View Author",
-            EPISODES_LOAD: "Load an episode by id:",
-            EPISODES_MENU: "Episodes Menu",
-            EPISODES_SELECT: "Or select an epsiode:",
-            EPISODES_WARNING: "Warning: user generated content is not rated",
+            EPISODE_REPORT: "Denunciar episódio",
+            EPISODE_UNLOAD: "Descarregar episódio",
+            EPISODE_VIEW_AUTHOR: "Ver autor",
+            EPISODES_LOAD: "Carregar um episódio pelo id:",
+            EPISODES_MENU: "Menu de episódios",
+            EPISODES_SELECT: "Ou escolha um episódio:",
+            EPISODES_WARNING: "Aviso: conteúdo criado por usuários não tem classificação",
             INSTRUCTION: {
-                CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
-                LOAD: "create or load?",
-                PUBLISH: "publish your episode",
-                TITLE: "name your episode",
-                TOGGLE_VISIBILITY: "tap to show/hide prompts",
-                WRITE: "write your prompts"
+                CREATE_TITLE: "primeiro, dê um nome ao episódio que vai guardar todas as suas perguntas e toque em criar.",
+                LOAD: "criar ou carregar?",
+                PUBLISH: "publique seu episódio",
+                TITLE: "dê um nome ao episódio",
+                TOGGLE_VISIBILITY: "toque para mostrar/ocultar perguntas",
+                WRITE: "escreva suas perguntas"
             },
             WARNING: {
-                DELETE: "Are you sure you want to delete this episode?",
-                TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
-                TOS_AGREE: "agree and share"
+                DELETE: "Tem certeza de que quer apagar este episódio?",
+                TOS: "Ao compartilhar conteúdo, você concorda com nossos [tos]Termos de Serviço[/tos]",
+                TOS_AGREE: "concordar e compartilhar"
             },
-            BACK_TO_EPISODES: "back to episodes",
-            BACK_TO_MENU: "back to menu",
-            CREATE_NEW_EPISODE: "create a new episode",
-            PREVIOUS_EPISODES: "previous episodes",
-            PROMPT_ADD: "add prompt",
-            PROMPT_PLACEHOLDER: "enter a prompt",
-            PROMPTS_COUNT_HIDDEN: "({count} hidden)",
-            TITLE_PLACEHOLDER: "enter a title"
+            BACK_TO_EPISODES: "voltar aos episódios",
+            BACK_TO_MENU: "voltar ao menu",
+            CREATE_NEW_EPISODE: "criar novo episódio",
+            PREVIOUS_EPISODES: "episódios anteriores",
+            PROMPT_ADD: "adicionar pergunta",
+            PROMPT_PLACEHOLDER: "digite uma pergunta",
+            PROMPTS_COUNT_HIDDEN: "({count} ocultas)",
+            TITLE_PLACEHOLDER: "digite um título"
         },
         u5 = {
             BROADCASTER: {
-                SUBTEXT: "Has conectado correctamente tu cuenta a la Extensión de Twitch del Kit de Público de Jackbox.",
-                WARNING: "ESTA SALA NO TIENE LA OPCIÓN DE PÚBLICO HABILITADA"
+                SUBTEXT: "Você conectou sua conta à Extensão da Twitch do Kit de Plateia da Jackbox.",
+                WARNING: "ESTA SALA NÃO ESTÁ COM A PLATEIA ATIVADA"
             },
             RECONNECTED: {
                 TEXT: "RECONECTADO",
-                SUBTEXT: "¡Diviértete!"
+                SUBTEXT: "Divirta-se!"
             },
             RECONNECTING: {
                 CONTROLLER: {
-                    TEXT: "CONEXIÓN INTERRUMPIDA",
-                    SUBTEXT: "Intentando reconectar ({attempt} de 5)"
+                    TEXT: "CONEXÃO PERDIDA",
+                    SUBTEXT: "Tentando reconectar ({attempt} de 5)"
                 },
                 GAME: {
-                    TEXT: "CONEXIÓN DEL JUEGO INTERRUMPIDA",
-                    SUBTEXT: "Por favor espera mientras intentamos reconectarte"
+                    TEXT: "CONEXÃO COM O JOGO PERDIDA",
+                    SUBTEXT: "Aguarde enquanto tentamos te reconectar"
                 }
             }
         },
@@ -20122,8 +20122,8 @@ function print() { __p += __j.call(arguments, '') }
         ]), V("span", null, [Uq, V("em", null, $e(e.content), 1)])])) : Re("", !0), ft(V("textarea", {
             "onUpdate:modelValue": t[6] || (t[6] = s => e.message = s),
             rows: "3",
-            placeholder: "(optional) more details",
-            "aria-label": "Details"
+            placeholder: "(opcional) mais detalhes",
+            "aria-label": "Detalhes"
         }, null, 512), [
             [go, e.message]
         ]), V("button", {
@@ -20131,8 +20131,8 @@ function print() { __p += __j.call(arguments, '') }
         }, $e(e.$t("ACTION.SUBMIT")), 1)])])) : e.screen === "debug" ? (J(), ie("div", Fq, [jq, Bq, V("div", Gq, [ft(V("textarea", {
             "onUpdate:modelValue": t[8] || (t[8] = s => e.message = s),
             rows: "3",
-            placeholder: "Enter details",
-            "aria-label": "Details"
+            placeholder: "Digite os detalhes",
+            "aria-label": "Detalhes"
         }, null, 512), [
             [go, e.message]
         ]), V("button", {
@@ -26765,7 +26765,7 @@ ${t}`
             placeholder: e.player.placeholder,
             "aria-invalid": !!e.badAnswer || !!e.player.error,
             "max-length": e.player.maxLength,
-            "aria-label": "answer",
+            "aria-label": "resposta",
             required: "",
             onInput: t[0] || (t[0] = (...u) => e.onInput && e.onInput(...u)),
             onFocus: t[1] || (t[1] = (...u) => e.scrollToPrompt && e.scrollToPrompt(...u)),
@@ -31667,7 +31667,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         return J(), ie("div", {
             class: "header",
             role: "region",
-            "aria-label": "nombre del jugador",
+            "aria-label": "nome do jogador",
             style: Jn(`--border: ${e.color||"#95907C"}`)
         }, [e.drag ? (J(), cn(s, {
             key: 1,
@@ -31831,13 +31831,13 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         Ioe = V("div", {
             class: "visually-hidden",
             role: "region",
-            "aria-label": "instructions"
+            "aria-label": "instruções"
         }, " Crea tu tarjeta de presentación haciendo clic en tu nombre debajo. Una vez agregado, puedes seleccionar tu personaje. ", -1),
         $oe = {
             key: 0,
             class: "avatar-stash",
             role: "region",
-            "aria-label": "avatar choices"
+            "aria-label": "opções de avatar"
         },
         Aoe = ["aria-label", "disabled", "onClick"],
         Roe = ["src", "alt"],
@@ -31860,7 +31860,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         Moe = {
             class: "controls-container",
             role: "region",
-            "aria-label": "controls"
+            "aria-label": "controles"
         };
 
     function Uoe(e, t, n, r, i, o) {
@@ -32193,12 +32193,12 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         Hoe = V("div", {
             role: "region",
             class: "visually-hidden",
-            "aria-label": "keyboard instructions"
+            "aria-label": "instruções do teclado"
         }, [V("span", null, " Cada frase le seguirán botones para cada palabra de la frase. Una vez que se ha agregado una palabra a tu respuesta, puedes enfocar esa palabra en la composición y presionar Alt + Izquierda o Derecha para cambiar el orden de las palabras ")], -1),
         Yoe = {
             role: "region",
             class: "prompt",
-            "aria-label": "prompt"
+            "aria-label": "enunciado"
         },
         Xoe = {
             class: "visually-hidden"
@@ -32207,7 +32207,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         Joe = {
             class: "instructions",
             role: "region",
-            "aria-label": "instructions"
+            "aria-label": "instruções"
         },
         Zoe = {
             class: "instructions visually-hidden"
@@ -32235,7 +32235,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         ole = {
             class: "controls",
             role: "region",
-            "aria-label": "sorting options"
+            "aria-label": "opções de ordenação"
         },
         lle = {
             class: "visually-hidden"
@@ -32264,7 +32264,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         gle = {
             class: "controls",
             role: "region",
-            "aria-label": "actions"
+            "aria-label": "ações"
         },
         vle = ["disabled"];
 
@@ -32331,7 +32331,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             class: ke(e.maxReached ? "wordset disabled" : "wordset"),
             style: Jn(`--scrollSpace: ${e.scrollSpace}`),
             role: "region",
-            "aria-label": "word bank"
+            "aria-label": "banco de palavras"
         }, [!e.showShuffled && !e.showSorted ? (J(), ie("div", qoe, [Me(c, {
             list: e.stash,
             class: "draggable",
@@ -32411,7 +32411,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         }, {
             default: Dt(() => [V("div", {
                 role: "region",
-                "aria-label": "composition",
+                "aria-label": "composição",
                 class: ke(e.feedbackActive ? "clipboard shake" : "clipboard")
             }, [V("div", lle, [V("button", {
                 onClick: t[2] || (t[2] = h => e.readAnswer())
@@ -32420,7 +32420,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                 modelValue: e.answer,
                 "onUpdate:modelValue": t[3] || (t[3] = h => e.answer = h),
                 role: "region",
-                "aria-label": "answer",
+                "aria-label": "resposta",
                 class: "composition-draggable",
                 group: {
                     name: "composition",
@@ -32590,7 +32590,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             color: e.info ? e.info.color : null
         }, null, 8, ["username", "color"]), V("button", {
             class: "briefcase look",
-            "aria-label": "un maletín con ojos saltones",
+            "aria-label": "uma maleta com olhos esbugalhados",
             disabled: !e.hasStorage,
             style: Jn({
                 transform: `translate(${e.briefcasePosition.x}vw, ${e.briefcasePosition.y}vh)`
@@ -32856,14 +32856,14 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         Yle = V("div", {
             role: "region",
             class: "visually-hidden",
-            "aria-label": "keyboard instructions"
+            "aria-label": "instruções do teclado"
         }, [V("span", null, " Cada frase le seguirán botones para cada palabra de la frase. Una vez que se ha agregado una palabra a tu respuesta, puede enfocar esa palabra en la composición y presionar Alt + Izquierda o Derecha para cambiar el orden de las palabras ")], -1),
         Xle = ["aria-label"],
         zle = ["onClick"],
         Jle = {
             role: "region",
             class: "instructions",
-            "aria-label": "instructions"
+            "aria-label": "instruções"
         },
         Zle = {
             class: "visually-hidden"
@@ -32877,7 +32877,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         },
         tce = {
             key: 0,
-            "aria-label": "sentence",
+            "aria-label": "frase",
             class: "sentence landmark visually-hidden"
         },
         nce = ["onClick"],
@@ -32892,7 +32892,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         oce = {
             role: "region",
             class: "controls",
-            "aria-label": "sorting options"
+            "aria-label": "opções de ordenação"
         },
         lce = {
             ref: "magnetAnswer",
@@ -32907,7 +32907,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         },
         fce = {
             class: "prompt",
-            "aria-label": "answers"
+            "aria-label": "respostas"
         },
         dce = ["aria-label", "onClick"],
         hce = ["onClick", "onKeydown"],
@@ -32923,7 +32923,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         vce = {
             role: "region",
             class: "controls",
-            "aria-label": "actions"
+            "aria-label": "ações"
         },
         mce = ["disabled"],
         yce = ["disabled"];
@@ -32995,7 +32995,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             role: "region",
             class: ke(e.maxReached ? "wordset disabled" : "wordset"),
             style: Jn(`--scrollSpace: ${e.scrollSpace}`),
-            "aria-label": "word bank"
+            "aria-label": "banco de palavras"
         }, [!e.showShuffled && !e.showSorted ? (J(), ie("div", qle, [Me(c, {
             modelValue: e.stash,
             "onUpdate:modelValue": t[5] || (t[5] = u => e.stash = u),
@@ -33080,7 +33080,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             default: Dt(() => [V("div", {
                 role: "region",
                 class: ke(e.feedbackActive ? "clipboard shake" : "clipboard"),
-                "aria-label": "composition"
+                "aria-label": "composição"
             }, [V("div", lce, [V("span", cce, $e(e.answerText), 1), V("div", uce, [V("button", {
                 onClick: t[16] || (t[16] = u => e.focusIndex(0))
             }, "Fill answer 1"), V("button", {
@@ -33180,7 +33180,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
         wce = {
             class: "title",
             role: "region",
-            "aria-label": "prompt"
+            "aria-label": "enunciado"
         },
         _ce = {
             class: "choices"
