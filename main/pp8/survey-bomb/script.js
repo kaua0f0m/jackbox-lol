@@ -12765,118 +12765,118 @@ ${r.message}`,
         }
     }
     const PG = {
-            BACK: "Atrás",
+            BACK: "Voltar",
             CANCEL: "Cancelar",
-            CLOSE: "Cerrar",
+            CLOSE: "Fechar",
             CONFIRM: "Confirmar",
-            CREATE: "Crear",
-            DELETE: "Borrar",
-            DONE: "Hecho",
+            CREATE: "Criar",
+            DELETE: "Apagar",
+            DONE: "Pronto",
             EDIT: "Editar",
             OK: "OK",
-            NO: "No",
-            PLAY: "Jugar",
+            NO: "Não",
+            PLAY: "Jogar",
             PUBLISH: "Publicar",
             REMOVE: "Remover",
             RESET: "Reiniciar",
             SUBMIT: "Enviar",
-            TRY_AGAIN: "Intentarlo de nuevo",
-            UNDO: "Deshacer",
-            YES: "Sí"
+            TRY_AGAIN: "Tentar de novo",
+            UNDO: "Desfazer",
+            YES: "Sim"
         },
         xG = {
             UGC: {
-                VISIBILITY_CONTROLLER_OFF: "prompts hidden on players\u2019 devices",
-                VISIBILITY_CONTROLLER_ON: "prompts shown on players\u2019 devices",
-                VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
-                VISIBILITY_SCREEN_ON: "prompts shown on game screen"
+                VISIBILITY_CONTROLLER_OFF: "perguntas ocultas nos aparelhos dos jogadores",
+                VISIBILITY_CONTROLLER_ON: "perguntas visíveis nos aparelhos dos jogadores",
+                VISIBILITY_SCREEN_OFF: "perguntas ocultas na tela do jogo",
+                VISIBILITY_SCREEN_ON: "perguntas visíveis na tela do jogo"
             }
         },
         DG = {
-            DISCONNECTED: "Has sido desconectado.",
-            DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-            PLAYER_KICKED: "Has sido echado de la partida por un moderador.",
-            ROOM_DESTROYED: "¡Gracias por jugar!",
+            DISCONNECTED: "Você foi desconectado.",
+            DRAWING_NOTHING: "Você precisa desenhar alguma coisa!",
+            PLAYER_KICKED: "Você foi expulso da partida por um moderador.",
+            ROOM_DESTROYED: "Obrigado por jogar!",
             ROOM_DISCONNECTED: "Desconectado",
-            TEXT_NAUGHTY: "Me temo que no puedes escribir eso. Por favor sé respetuoso con otros jugadores.",
-            TEXT_NOTHING: "¡No puedes dejarlo en blanco!",
-            TITLE: "Error"
+            TEXT_NAUGHTY: "Receio que você não possa escrever isso. Por favor, respeite os outros jogadores.",
+            TEXT_NOTHING: "Não pode deixar em branco!",
+            TITLE: "Erro"
         },
-        MG = "CARGANDO",
+        MG = "CARREGANDO",
         UG = {
-            JOINED_COUNT: "{count} de {maxPlayers} jugadores se unieron",
-            PLAYERS_NEEDED: "x | Se necesita {count} jugador para empezar | Se necesitan {count} jugadores para empezar",
-            WAITING_FOR_VIP: "Esperando a que {name} empiece la partida",
-            WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-            GAME_STARTING: "La partida está empezando",
-            BUTTON_START: "Pulsa para empezar",
-            BUTTON_CANCEL: "Pulsa para cancelar"
+            JOINED_COUNT: "{count} de {maxPlayers} jogadores entraram",
+            PLAYERS_NEEDED: "x | Falta {count} jogador para começar | Faltam {count} jogadores para começar",
+            WAITING_FOR_VIP: "Esperando {name} começar a partida",
+            WAITING_FOR_GAMEPAD: "Esperando a partida começar",
+            GAME_STARTING: "A partida está começando",
+            BUTTON_START: "Toque para começar",
+            BUTTON_CANCEL: "Toque para cancelar"
         },
         FG = {
-            GALLERY_LINK: "Visita la galería",
-            PLAY_AGAIN: "¿Jugar otra vez?",
-            BUTTON_SAME_PLAYERS: "Mismos jugadores",
-            BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+            GALLERY_LINK: "Veja a galeria",
+            PLAY_AGAIN: "Jogar de novo?",
+            BUTTON_SAME_PLAYERS: "Mesmos jogadores",
+            BUTTON_NEW_PLAYERS: "Novos jogadores"
         },
         BG = {
-            AND: "Y",
-            OR: "O"
+            AND: "E",
+            OR: "OU"
         },
         jG = {
-            BUTTON_SKIP: "Omitir",
-            BUTTON_NEXT: "Siguiente",
-            BUTTON_DONE: "¡Vamos!"
+            BUTTON_SKIP: "Pular",
+            BUTTON_NEXT: "Próximo",
+            BUTTON_DONE: "Vamos lá!"
         },
         GG = {
-            NAME: "PÚBLICO"
+            NAME: "PLATEIA"
         },
         WG = {
-            EPISODE_REPORT: "Report Episode",
-            EPISODE_UNLOAD: "Unload Episode",
-            EPISODE_VIEW_AUTHOR: "View Author",
-            EPISODES_LOAD: "Load an episode by id:",
-            EPISODES_MENU: "Episodes Menu",
-            EPISODES_SELECT: "Or select an epsiode:",
-            EPISODES_WARNING: "Warning: user generated content is not rated",
+            EPISODE_REPORT: "Denunciar episódio",
+            EPISODE_UNLOAD: "Descarregar episódio",
+            EPISODE_VIEW_AUTHOR: "Ver autor",
+            EPISODES_LOAD: "Carregar um episódio pelo id:",
+            EPISODES_MENU: "Menu de episódios",
+            EPISODES_SELECT: "Ou escolha um episódio:",
+            EPISODES_WARNING: "Aviso: conteúdo criado por usuários não tem classificação",
             INSTRUCTION: {
-                CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
-                LOAD: "create or load?",
-                PUBLISH: "publish your episode",
-                TITLE: "name your episode",
-                TOGGLE_VISIBILITY: "tap to show/hide prompts",
-                WRITE: "write your prompts"
+                CREATE_TITLE: "primeiro, dê um nome ao episódio que vai guardar todas as suas perguntas e toque em criar.",
+                LOAD: "criar ou carregar?",
+                PUBLISH: "publique seu episódio",
+                TITLE: "dê um nome ao episódio",
+                TOGGLE_VISIBILITY: "toque para mostrar/ocultar perguntas",
+                WRITE: "escreva suas perguntas"
             },
             WARNING: {
-                DELETE: "Are you sure you want to delete this episode?",
-                TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
-                TOS_AGREE: "agree and share"
+                DELETE: "Tem certeza de que quer apagar este episódio?",
+                TOS: "Ao compartilhar conteúdo, você concorda com nossos [tos]Termos de Serviço[/tos]",
+                TOS_AGREE: "concordar e compartilhar"
             },
-            BACK_TO_EPISODES: "back to episodes",
-            BACK_TO_MENU: "back to menu",
-            CREATE_NEW_EPISODE: "create a new episode",
-            PREVIOUS_EPISODES: "previous episodes",
-            PROMPT_ADD: "add prompt",
-            PROMPT_PLACEHOLDER: "enter a prompt",
-            PROMPTS_COUNT_HIDDEN: "({count} hidden)",
-            TITLE_PLACEHOLDER: "enter a title"
+            BACK_TO_EPISODES: "voltar aos episódios",
+            BACK_TO_MENU: "voltar ao menu",
+            CREATE_NEW_EPISODE: "criar novo episódio",
+            PREVIOUS_EPISODES: "episódios anteriores",
+            PROMPT_ADD: "adicionar pergunta",
+            PROMPT_PLACEHOLDER: "digite uma pergunta",
+            PROMPTS_COUNT_HIDDEN: "({count} ocultas)",
+            TITLE_PLACEHOLDER: "digite um título"
         },
         KG = {
             BROADCASTER: {
-                SUBTEXT: "Has conectado correctamente tu cuenta a la Extensión de Twitch del Kit de Público de Jackbox.",
-                WARNING: "ESTA SALA NO TIENE LA OPCIÓN DE PÚBLICO HABILITADA"
+                SUBTEXT: "Você conectou sua conta à Extensão da Twitch do Kit de Plateia da Jackbox.",
+                WARNING: "ESTA SALA NÃO ESTÁ COM A PLATEIA ATIVADA"
             },
             RECONNECTED: {
                 TEXT: "RECONECTADO",
-                SUBTEXT: "¡Diviértete!"
+                SUBTEXT: "Divirta-se!"
             },
             RECONNECTING: {
                 CONTROLLER: {
-                    TEXT: "CONEXIÓN INTERRUMPIDA",
-                    SUBTEXT: "Intentando reconectar ({attempt} de 5)"
+                    TEXT: "CONEXÃO PERDIDA",
+                    SUBTEXT: "Tentando reconectar ({attempt} de 5)"
                 },
                 GAME: {
-                    TEXT: "CONEXIÓN DEL JUEGO INTERRUMPIDA",
-                    SUBTEXT: "Por favor espera mientras intentamos reconectarte"
+                    TEXT: "CONEXÃO COM O JOGO PERDIDA",
+                    SUBTEXT: "Aguarde enquanto tentamos te reconectar"
                 }
             }
         },
@@ -21099,8 +21099,8 @@ function print() { __p += __j.call(arguments, '') }
         ]), J("span", null, [$J, J("em", null, Ue(e.content), 1)])])) : Ce("", !0), Xe(J("textarea", {
             "onUpdate:modelValue": t[6] || (t[6] = c => e.message = c),
             rows: "3",
-            placeholder: "(optional) more details",
-            "aria-label": "Details"
+            placeholder: "(opcional) mais detalhes",
+            "aria-label": "Detalhes"
         }, null, 512), [
             [ly, e.message]
         ]), J("button", {
@@ -21108,8 +21108,8 @@ function print() { __p += __j.call(arguments, '') }
         }, Ue(e.$t("ACTION.SUBMIT")), 1)])])) : e.screen === "debug" ? (j(), Y("div", AJ, [kJ, NJ, J("div", RJ, [Xe(J("textarea", {
             "onUpdate:modelValue": t[8] || (t[8] = c => e.message = c),
             rows: "3",
-            placeholder: "Enter details",
-            "aria-label": "Details"
+            placeholder: "Digite os detalhes",
+            "aria-label": "Detalhes"
         }, null, 512), [
             [ly, e.message]
         ]), J("button", {
@@ -24156,7 +24156,7 @@ ${t}`
             key: 1,
             class: "image",
             src: kte,
-            alt: "Thank You"
+            alt: "Obrigado"
         },
         Pte = {
             key: 2,
@@ -27498,60 +27498,60 @@ ${t}`
         },
         Vne = {
             INSTRUCTION: {
-                ORDERED: "Elige la puerta que crees que es la {rank}",
-                UNORDERED: "Elige las {amount} puertas correctas"
+                ORDERED: "Escolha a porta que você acha que é a {rank}",
+                UNORDERED: "Escolha as {amount} portas certas"
             },
-            REMAINING: "Elecciones restantes: {remaining}"
+            REMAINING: "Escolhas restantes: {remaining}"
         },
         Yne = {
-            CHOOSE_ONE: "Elige una puerta",
-            CHOOSE_THIS: "Elegir esta puerta"
+            CHOOSE_ONE: "Escolha uma porta",
+            CHOOSE_THIS: "Escolher esta porta"
         },
         zne = {
-            FILTER_ERROR: "Eso no está permitido, ¡ingresa otra cosa!",
+            FILTER_ERROR: "Isso não é permitido, digite outra coisa!",
             INSTRUCTION: {
-                AVATAR: "Elige tu avatar",
-                NAME_TEAM: "Sugiere un nombre de equipo",
-                RANK_TEAM: "Clasifica tus nombres de equipo favoritos"
+                AVATAR: "Escolha seu avatar",
+                NAME_TEAM: "Sugira um nome de time",
+                RANK_TEAM: "Ranqueie seus nomes de time favoritos"
             }
         },
-        Xne = "Sin antorchas",
+        Xne = "Sem tochas",
         Jne = {
-            CONFIRM: "Sí, sí, entiendo",
+            CONFIRM: "Tá, tá, entendi",
             SUBTEXT: {
-                ATTENTION: "[b]¡DEBES TENER EL PÚBLICO ACTIVADO PARA JUGAR![/b]",
-                BEST: "[b]LO MEJOR:[/b] Ponerle contraseña a la partida y compartir la contraseña con tu equipo deseado",
-                GOOD: "[b]CASI IGUAL DE BUENO:[/b] Ocultar el código de sala y establecer un número máximo de jugadores",
-                RECOMMEND: "Recomendamos los siguientes ajustes para ayudar a crear tu equipo y púlbico deseados.",
-                RESTART: "Entonces, si no has hecho eso, ¿quizás reinicia la partida?"
+                ATTENTION: "[b]VOCÊ PRECISA ESTAR COM A PLATEIA ATIVADA PARA JOGAR![/b]",
+                BEST: "[b]O MELHOR:[/b] Colocar senha na partida e passar a senha para o time que você quer",
+                GOOD: "[b]QUASE TÃO BOM:[/b] Esconder o código da sala e definir um número máximo de jogadores",
+                RECOMMEND: "Recomendamos estas configurações para ajudar a montar o time e a plateia que você quer.",
+                RESTART: "Então, se ainda não fez isso, que tal reiniciar a partida?"
             },
-            TEXT: "¡Bienvenido al modo de Streamer!"
+            TEXT: "Bem-vindo ao modo Streamer!"
         },
         Zne = {
-            INSTRUCTION: "Recuerda tus elecciones",
-            PICK_MORE: "Elige {amount} más"
+            INSTRUCTION: "Lembre-se das suas escolhas",
+            PICK_MORE: "Escolha mais {amount}"
         },
-        Qne = "Cambiar de equipo",
+        Qne = "Trocar de time",
         eie = "VS",
         tie = {
             FINAL_CHANCE: {
-                BOTH: "Si alguno de los equipos obtiene la siguiente opción correcta, ¡el juego termina!",
-                CURRENT: "Si su equipo acierta en su siguiente elección, ¡el juego termina!",
-                HEADER: "Momento de eliminación",
-                RIVAL: "Si tu equipo acierta en tu próxima elección, ¡el juego termina!"
+                BOTH: "Se algum dos times acertar a próxima opção, o jogo acaba!",
+                CURRENT: "Se o time deles acertar a próxima escolha, o jogo acaba!",
+                HEADER: "Hora da eliminação",
+                RIVAL: "Se o seu time acertar a próxima escolha, o jogo acaba!"
             },
             LOSE: {
-                HEADER: "No hay escapatoria",
-                TEXT: ["No te preocupes, aparentemente sabías muy rico.", "Al menos el otro equipo está contento.", "Aprende más de tus amigos la próxima vez.", "Aún así, aprendieron mucho el uno del otro.", "Está oscuro como boca de lobo. Es probable que te coma un grue.", "Peor aún, te mojaste.", "¡El robo no paga!", "Está bien, Laverna te hará compañía.", "Disfruta del aire mohoso.", "Al menos el nombre de tu equipo era genial."]
+                HEADER: "Sem escapatória",
+                TEXT: ["Relaxa, pelo visto você estava uma delícia.", "Pelo menos o outro time ficou feliz.", "Da próxima vez, aprenda mais sobre seus amigos.", "Mesmo assim, vocês aprenderam muito um sobre o outro.", "Está escuro como breu. É bem provável que um grue te devore.", "Pior ainda: você se molhou.", "O crime não compensa!", "Tudo bem, a Laverna vai te fazer companhia.", "Aproveite o ar de mofo.", "Pelo menos o nome do seu time era ótimo."]
             },
-            SKIP_TUTORIALS: "Omitir tutoriales",
+            SKIP_TUTORIALS: "Pular tutoriais",
             UP_NEXT: {
-                HEADER: "Tú sigues",
-                TEXT: ["¡Prepárate! Te toca elegir después.", "Presta atención porque elegirás la siguiente puerta.", "Después de esta elección, es tu turno\u2026 ¡así que espera a que fracasen!"]
+                HEADER: "Você é o próximo",
+                TEXT: ["Prepare-se! Você escolhe depois.", "Preste atenção, porque você vai escolher a próxima porta.", "Depois desta escolha é a sua vez… então torça pra eles errarem!"]
             },
             WIN: {
-                HEADER: "Escapaste",
-                TEXT: ["¡Felicitaciones por un trabajo bien hecho!", "El trabajo en equipo hizo que este sueño funcionara.", "No gastes todo el oro que robaste antes en un solo lugar.", "Disfruta del aire fresco.", "¡No olvides calificar tu estadía!", "Estoy segura de que el otro equipo está bien.", "¡Escogiste lo que saben tus amigos!", "Espero tu próxima visita.", "El verdadero tesoro fueron los amigos que perdimos en las profundidades de esta mina.", "Todos están orgullosos de ti."]
+                HEADER: "Você escapou",
+                TEXT: ["Parabéns pelo trabalho bem-feito!", "O trabalho em equipe fez o sonho acontecer.", "Não gaste todo o ouro que você roubou num lugar só.", "Aproveite o ar fresco.", "Não esqueça de avaliar sua estadia!", "Tenho certeza de que o outro time está bem.", "Você escolheu o que seus amigos sabem!", "Aguardo sua próxima visita.", "O verdadeiro tesouro foram os amigos que perdemos nas profundezas desta mina.", "Todo mundo está orgulhoso de você."]
             }
         },
         rie = {
@@ -27761,11 +27761,11 @@ ${t}`
         }, [e.correct ? (j(), Nt(u, {
             key: 0,
             class: "result",
-            "aria-label": "correct answer"
+            "aria-label": "resposta certa"
         })) : Ce("", !0), e.incorrect ? (j(), Nt(f, {
             key: 1,
             class: "result",
-            "aria-label": "incorrect answer"
+            "aria-label": "resposta errada"
         })) : Ce("", !0)], 64)) : Ce("", !0)], 64)) : (j(), Y(Ze, {
             key: 2
         }, [lt(d, {
@@ -28451,7 +28451,7 @@ ${t}`
         }),
         Hse = {
             class: "header",
-            "aria-label": "name and torch section"
+            "aria-label": "nome e tochas"
         },
         Vse = {
             class: "name"
@@ -28627,7 +28627,7 @@ ${t}`
         }),
         uae = {
             class: "info",
-            "aria-label": "team section"
+            "aria-label": "time"
         },
         lae = {
             class: "torches"
